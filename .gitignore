@@ -1,2 +1,4 @@
 /rawdata/*
 /results/*
+/venv/
+/downloads/*
